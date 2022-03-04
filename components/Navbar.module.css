@@ -1,0 +1,7 @@
+.menuContainer a {
+    margin-right: 10px;
+}
+
+.menuContainer a:hover {
+    text-decoration: underline;
+}
